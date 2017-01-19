@@ -13,6 +13,9 @@
 		B2A382C11E22BEA90048FB45 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B2A382C01E22BEA90048FB45 /* Assets.xcassets */; };
 		B2A382C41E22BEA90048FB45 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B2A382C21E22BEA90048FB45 /* LaunchScreen.storyboard */; };
 		B2A382CF1E22BEA90048FB45 /* iPhone_Photo_FrameTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2A382CE1E22BEA90048FB45 /* iPhone_Photo_FrameTests.swift */; };
+		B2A382DC1E22C00A0048FB45 /* IMG_0658.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B2A382D91E22C00A0048FB45 /* IMG_0658.jpg */; };
+		B2A382DD1E22C00A0048FB45 /* IMG_0659.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B2A382DA1E22C00A0048FB45 /* IMG_0659.jpg */; };
+		B2A382DE1E22C00A0048FB45 /* IMG_0660.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B2A382DB1E22C00A0048FB45 /* IMG_0660.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +39,9 @@
 		B2A382CA1E22BEA90048FB45 /* iPhone Photo FrameTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "iPhone Photo FrameTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B2A382CE1E22BEA90048FB45 /* iPhone_Photo_FrameTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iPhone_Photo_FrameTests.swift; sourceTree = "<group>"; };
 		B2A382D01E22BEA90048FB45 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B2A382D91E22C00A0048FB45 /* IMG_0658.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0658.jpg; sourceTree = "<group>"; };
+		B2A382DA1E22C00A0048FB45 /* IMG_0659.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0659.jpg; sourceTree = "<group>"; };
+		B2A382DB1E22C00A0048FB45 /* IMG_0660.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0660.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +83,9 @@
 		B2A382B81E22BEA90048FB45 /* iPhone Photo Frame */ = {
 			isa = PBXGroup;
 			children = (
+				B2A382D91E22C00A0048FB45 /* IMG_0658.jpg */,
+				B2A382DA1E22C00A0048FB45 /* IMG_0659.jpg */,
+				B2A382DB1E22C00A0048FB45 /* IMG_0660.jpg */,
 				B2A382B91E22BEA90048FB45 /* AppDelegate.swift */,
 				B2A382BB1E22BEA90048FB45 /* ViewController.swift */,
 				B2A382BD1E22BEA90048FB45 /* Main.storyboard */,
@@ -180,7 +189,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				B2A382C41E22BEA90048FB45 /* LaunchScreen.storyboard in Resources */,
+				B2A382DE1E22C00A0048FB45 /* IMG_0660.jpg in Resources */,
+				B2A382DD1E22C00A0048FB45 /* IMG_0659.jpg in Resources */,
 				B2A382C11E22BEA90048FB45 /* Assets.xcassets in Resources */,
+				B2A382DC1E22C00A0048FB45 /* IMG_0658.jpg in Resources */,
 				B2A382BF1E22BEA90048FB45 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
